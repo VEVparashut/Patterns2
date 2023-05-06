@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c29g45bk39kjcfpu?svg=true)](https://ci.appveyor.com/project/VEVparashut/patterns2)
